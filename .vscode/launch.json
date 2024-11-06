@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/akmasifuzzaman/github-classroom/Porgramming-Hero-web-course/batch-4-assignment-1-asif4762",
+      "program": "/Users/akmasifuzzaman/github-classroom/Porgramming-Hero-web-course/batch-4-assignment-1-asif4762/build/Debug/outDebug"
+    }
+  ]
+}
